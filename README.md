@@ -6,22 +6,14 @@
 <p align="left" > 
   <b>Faaallaaa QA!</b>
 </p>
-<a href="" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
 <p align="left" >
 Me chamo <b> Ricardo Oliveira</b>.
 </p>
-<a href="https://twitter.com/1985_mello" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579538-yumminkysocialmedia32_83106.png" width="48px" height="48px">
-</a>
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
 Hoje a empresa que atuo é a Infracommerce como <b>Software Quality Assurance (QA) Engineer</b>.
 </p>
-<a href="https://www.linkedin.com/in/ricardo-mello-oliveira-a33b5287/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 </p><br />
