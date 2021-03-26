@@ -13,7 +13,6 @@ Me chamo <b> Ricardo Oliveira</b>.
 Atualmente moro em Diadema/SP-BR.<br />
 Hoje a empresa que atuo é a Infracommerce como <b>Software Quality Assurance (QA) Engineer</b>.
 </p>
-
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 </p><br />
@@ -36,8 +35,12 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1Hjk8mEt7oidT_Ev1nLzP_qqf-woQhEtG/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>&nbsp;
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Ricardo-Oliveira" />
+</p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliver&layout=compact&theme=graywhite&title_color=268bd2" alt="Ricardo-Oliveira" />
 </p><br />
+
 
 **Linguagens e ferramentas:**  
 
