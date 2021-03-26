@@ -1,41 +1,4 @@
 ###  <h1 align="center">Olá 👋,Seja bem vinda e bem vindo! </h1>
- <hr />
- .hub {
-  width: 100%;
-  height: 75px;
-  background: #474747;
-}
-.hub li {
-  height: 75px;
-  text-transform: uppercase;
-  padding-left: 10px;
-  padding-right: 10px;
-  box-sizing: border-box;
-  float: left;
-  cursor: pointer;
-  position: relative;
-  -webkit-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  -moz-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  -o-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  /* easeInOutExpo */
-  -webkit-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  -moz-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  -o-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
-  /* easeInOutExpo */
-}
-.hub span {
-  font: 700 18px/18px"Open Sans";
-  color: #fff;
-  line-height: 75px;
-}
-.hub li:hover {
-  background: #fff;
-}
-.hub li span:hover {
-  color: #474747;
-}
 <a href="https://github.com/RicardoOliver?tab=repositories" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" class="hub" class="grid_960 margin-auto">
 </a><br />
@@ -55,8 +18,6 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 <hr />
   
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  
- 
 
 **Meus interesses pessoais:**
 
@@ -76,7 +37,6 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliver&layout=compact&theme=graywhite&title_color=268bd2" alt="Ricardo-Oliveira" />
 </p><br />
-
 
 **Linguagens e ferramentas:**  
 
