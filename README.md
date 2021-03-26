@@ -1,7 +1,43 @@
 ###  <h1 align="center">Olá 👋,Seja bem vinda e bem vindo! </h1>
  <hr />
+ .hub {
+  width: 100%;
+  height: 75px;
+  background: #474747;
+}
+.hub li {
+  height: 75px;
+  text-transform: uppercase;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-sizing: border-box;
+  float: left;
+  cursor: pointer;
+  position: relative;
+  -webkit-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  -moz-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  -o-transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  transition: all 200ms cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  /* easeInOutExpo */
+  -webkit-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  -moz-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  -o-transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  transition-timing-function: cubic-bezier(1.000, 0.000, 0.000, 1.000);
+  /* easeInOutExpo */
+}
+.hub span {
+  font: 700 18px/18px"Open Sans";
+  color: #fff;
+  line-height: 75px;
+}
+.hub li:hover {
+  background: #fff;
+}
+.hub li span:hover {
+  color: #474747;
+}
 <a href="https://github.com/RicardoOliver?tab=repositories" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px" class="hub" class="grid_960 margin-auto">
 </a><br />
 <p align="left" > 
   <b>Faaallaaa QA!</b>
