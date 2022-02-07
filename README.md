@@ -4,6 +4,7 @@
 </a><br />
 <p align="left" > 
   <b>Faaallaaa QA!</b>
+  <b>Faaallaaa Dev!</b>
 </p>
 <p align="left" >
 Me chamo <b> Ricardo Oliveira</b>.
