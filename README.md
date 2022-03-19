@@ -57,4 +57,4 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RicardoOliver" alt="Ricardo-Oliveira" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+
