@@ -31,23 +31,16 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Ricardo-Oliveira" />
-</p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoOliver&layout=compact&theme=graywhite&title_color=268bd2" alt="Ricardo-Oliveira" />
-</p><br />
-
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true" />
 </picture>
 
 **Linguagens e ferramentas:**  
