@@ -32,9 +32,8 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
 <br>
-  <br>
-**Linguagens e ferramentas:**  
-
+  **Linguagens e ferramentas:**  
+<br>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
