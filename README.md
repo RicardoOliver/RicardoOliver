@@ -11,7 +11,7 @@ Me chamo <b> Ricardo Oliveira</b>.
 </p>
 <p align="left" >
 Atualmente moro em Diadema/SP-BR.<br />
-Hoje a empresa que atuo é a Solutis Tecnologias como <b>Senior QA Automation Engineer </b>.
+Hoje a empresa que atuo é a BRQ Digital Solutions como <b>Senior QA Automation Engineer </b>.
 </p>
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
