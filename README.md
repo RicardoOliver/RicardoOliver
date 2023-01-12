@@ -31,7 +31,11 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
-
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
 
 **Linguagens e ferramentas:**  
 
