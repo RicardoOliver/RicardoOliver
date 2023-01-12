@@ -36,7 +36,10 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
   srcset="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 **Linguagens e ferramentas:**  
 
 <p align="left">
