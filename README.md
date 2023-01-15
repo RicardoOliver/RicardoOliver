@@ -47,6 +47,8 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 
 
  <br />
+   <br />
+   
   **Linguagens e ferramentas:**  
 
 <br />
