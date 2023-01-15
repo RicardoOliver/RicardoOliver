@@ -49,7 +49,7 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
   
   **Linguagens e ferramentas:**  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,C#)](https://skillicons.dev)
 
 
 
