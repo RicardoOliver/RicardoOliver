@@ -31,7 +31,7 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&bg_color=00000000)
 
   **Linguagens e ferramentas:**  
 <br>
