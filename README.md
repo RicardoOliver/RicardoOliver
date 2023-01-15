@@ -30,9 +30,9 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 👨🏽‍💻 [**Testes end-to-end**] Estou estudando automação web utilizando Cypress e utilizando o framework **Node.js**;
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre Teste Web , API e Mobile; 
   - Ler livros;
   - Jogar RP Grand Theft Auto V;
+  - Viajar
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
