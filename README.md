@@ -36,7 +36,8 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
 <br />
-  
+
+  <br/>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
       <thead>
         <tr>
@@ -55,7 +56,7 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
         </tr>
       </thead>
     </table>
-
+<br />
 <br />
    **Linguagens e ferramentas:**  
 <br />
