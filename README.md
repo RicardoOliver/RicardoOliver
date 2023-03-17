@@ -36,10 +36,28 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 - 📫 Se quiser pode enviar um email para r.c.d.1985@hotmail.com
 
 <br />
-   <br />
-   
-  **Linguagens e ferramentas:**  
+  
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+      <thead>
+        <tr>
+          <td>
+            <img
+              src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&locale=en&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+          <td>
+            <img
+              src="https://streak-stats.demolab.com/?user=RicardoOliver&theme=tokyonight"
+              alt="GitHub Stats"
+            />
+          </td>
+        </tr>
+      </thead>
+    </table>
 
+<br />
+   **Linguagens e ferramentas:**  
 <br />
 
  [![My Skills](https://skillicons.dev/icons?i=js,java,cs,dotnet,python,docker,git,github,gitlab,grafana,jenkins,mongodb,stackoverflow,selenium,vscode)](https://skillicons.dev)
