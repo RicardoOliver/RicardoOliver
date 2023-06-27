@@ -15,8 +15,9 @@
 Me chamo <b> Ricardo Oliveira</b>.
 </p>
 <p align="left" >
-Atualmente moro em Diadema/SP-BR.<br />
-Hoje a empresa que atuo é a AI Solutions como <b>Senior QA Automation Engineer </br>.
+Atualmente moro em Diadema/SP-BR.
+  <br />
+Hoje a empresa que atuo é a AI Solutions como <b>Senior QA Automation Engineer 
 </p>
 <p align="left" >
 Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
