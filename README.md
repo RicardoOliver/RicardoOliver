@@ -69,7 +69,7 @@ Nas horas livres jogo game que não sou de ferro: RP Grand Theft Auto V
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RicardoOliver}/count.svg" /></p> 
 <br>
 </div>
 
