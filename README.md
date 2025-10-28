@@ -18,7 +18,7 @@
 
 🎯 **Nome:** Ricardo Oliveira  
 📍 **Local:** Diadema/SP - Brasil  
-🏢 **Cargo Atual:** Senior QA Automation Engineer na **AI Solutions**  
+🏢 **Cargo Atual:** Senior QA Automation Engineer na **PSM COMPANY - Projeto Banco Mercedes Benz**  
 🎮 **Hobbies:** RP no GTA V, livros e viagens  
 🚀 **Missão:** Entregar qualidade com excelência e inovação constante  
 
