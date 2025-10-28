@@ -94,7 +94,7 @@
 
 <p align="center">
  
-  <img src="https://api.countapi.xyz/hit/{RicardoOliver}/visits?style=flat-square" />
+  ![Visitantes](https://api.countapi.xyz/hit/ricardooliver.github/visits?label=Visitantes&color=blue&style=flat-square)
 
 </p>
 
