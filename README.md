@@ -93,10 +93,9 @@
 ## 🧮 Contador de Visitantes  
 
 <p align="center">
- 
-   <img src="https://api.countapi.xyz/hit/ricardooliver.github/visits?label=Visitantes&color=blue&style=for-the-badge" alt="Contador de visitantes" />
-
+  <img src="https://komarev.com/ghpvc/?username=RicardoOliver&color=ff69b4&style=for-the-badge&label=VISITANTES" alt="Contador de visitantes"/>
 </p>
+
 
 ---
 
