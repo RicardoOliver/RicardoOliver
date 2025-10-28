@@ -94,7 +94,7 @@
 
 <p align="center">
  
-  ![Visitantes](https://api.countapi.xyz/hit/ricardooliver.github/visits?label=Visitantes&color=blue&style=flat-square)
+   <img src="https://api.countapi.xyz/hit/ricardooliver.github/visits?label=Visitantes&color=blue&style=for-the-badge" alt="Contador de visitantes" />
 
 </p>
 
