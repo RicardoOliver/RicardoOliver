@@ -93,7 +93,9 @@
 ## 🧮 Contador de Visitantes  
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{RicardoOliver}/count.svg" alt="Visitor Count"/>
+ 
+  <img src="https://api.countapi.xyz/hit/{RicardoOliver}/visits?style=flat-square" />
+
 </p>
 
 ---
