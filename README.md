@@ -1,9 +1,9 @@
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Ricardo%20Oliveira💻✨&fontAlignY=40&color=gradient&customColorList=2,3,4,10,20,30,40" />
+<!-- 🌌 HEADER 3D NEON -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2,3,4,10,20,30,40&text=Ricardo%20Oliveira%20🚀✨&fontAlign=50&fontAlignY=35&fontSize=50&animation=twinkling"/>
 
-<!-- TÍTULO ANIMADO -->
+<!-- ✨ TÍTULO ANIMADO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ricardo+Oliveira!;QA+Automation+Engineer+🚀;Tech+Lover+💻;From+Brazil+🇧🇷;Welcome+to+my+World!+🌌" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Ricardo+Oliveira!;QA+Automation+Engineer+🚀;Tech+Lover+💻;Gamer+🎮;Welcome+to+my+World+🌌" />
 </h1>
 
 ---
@@ -14,49 +14,54 @@
 
 ---
 
-## 👨‍💻 Sobre Mim  
+## ⚡ Sobre Mim  
 
-💡 **Nome:** Ricardo Oliveira  
-🌍 **Local:** Diadema/SP - Brasil  
+🎯 **Nome:** Ricardo Oliveira  
+📍 **Local:** Diadema/SP - Brasil  
 🏢 **Cargo Atual:** Senior QA Automation Engineer na **AI Solutions**  
 🎮 **Hobbies:** RP no GTA V, livros e viagens  
-🧠 **Missão:** Transformar qualidade em performance, código e excelência!
+🚀 **Missão:** Entregar qualidade com excelência e inovação constante  
 
-> “A qualidade não é um ato, é um hábito.” — *Aristóteles*  
+> 💬 “A automação é o presente, a qualidade é o futuro.”  
 
 ---
 
-## 🧩 Tech Stack & Ferramentas  
+## 🧠 Stack de Tecnologias  
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-00BFA5?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747A6?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 </div>
 
 ---
 
-## ⚙️ GitHub Analytics  
+## 📊 GitHub Analytics  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=ff91a4&hide_border=true" />
-  <img height="160em" src="https://streak-stats.demolab.com?user=RicardoOliver&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=ff91a4&currStreakLabel=00FFFF" />
+  <a href="https://github.com/RicardoOliver">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RicardoOliver&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=ff91a4&hide_border=true" />
+    <img height="170em" src="https://streak-stats.demolab.com/?user=RicardoOliver&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=ff91a4&currStreakLabel=00FFFF" />
+  </a>
 </div>
 
 ---
 
-## 📊 Atividade  
+## 🧩 Gráfico de Atividades  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RicardoOliver&bg_color=0d1117&color=00FFFF&line=ff91a4&point=FFFFFF&area=true&hide_border=true" width="95%"/>
@@ -75,17 +80,17 @@
 
 ---
 
-## 🧠 Mindset & Energia  
+## 🌟 “QA Power Mode”  
 
 <div align="center">
-  <img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.webp" width="400" alt="neon QA gif">
+  <img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.webp" width="400" alt="neon gif">
 </div>
 
-> 💭 “Automação é o caminho, mas qualidade é o destino.”  
+> 🧩 *“Testar é fácil. Garantir qualidade é arte.”* 🎨  
 
 ---
 
-## 👀 Visitantes  
+## 🧮 Contador de Visitantes  
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{RicardoOliver}/count.svg" alt="Visitor Count"/>
@@ -93,5 +98,5 @@
 
 ---
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=2,3,4,10,20,30,40" />
+<!-- 💎 FOOTER NEON -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=gradient&customColorList=2,3,4,10,20,30,40&animation=twinkling" />
