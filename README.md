@@ -99,9 +99,11 @@
 
 ## 🧮 Contador de Visitantes  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RicardoOliver&color=ff69b4&style=for-the-badge&label=VISITANTES" alt="Contador de visitantes"/>
-</p>
+<br/>
+
+![Visualizações](https://komarev.com/ghpvc/?username=RicardoOliver-mensageria&color=00C853&style=flat-square&label=VISUALIZAÇÕES+DO+PROJETO)
+
+<br/>
 
 
 ---
